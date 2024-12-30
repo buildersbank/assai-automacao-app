@@ -1,0 +1,19 @@
+{
+  "name": "proj-auto-assai",
+  "version": "1.0.0",
+  "description": "Projeto de automação front-end do App Assaí",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qa Finaya",
+  "license": "ISC",
+  "dependencies": {
+    "@appium/doctor": "^2.1.15",
+    "appium": "^2.11.2",
+    "appium-doctor": "^1.16.2"
+  },
+  "devDependencies": {
+    "appium-uiautomator2-driver": "^3.9.6"
+  }
+}
